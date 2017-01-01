@@ -1,0 +1,10 @@
+{
+  "name": "Angular2 App",
+  "description": "Angular2 with Express",
+  "repository": "",
+  "keywords": [
+    "angular2",
+    "express",
+    "node"
+  ]
+}
